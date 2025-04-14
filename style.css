@@ -57,16 +57,16 @@ body {
   justify-content: space-around;
 }
 
-.container__links a{
-    background-color: #22d4fd;
-    width: 250px;
-    padding: 16px;
-    text-align: center;
-    font-size: 24px;
-    color: #000;
-    font-weight: 700;
-    text-decoration: none;
-    font-family: 'Montserrat', sans-serif;
-    border-radius: 16px;
-    margin-top: 50px;
+.container__links a {
+  background-color: #22d4fd;
+  width: 250px;
+  padding: 16px;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+  font-weight: 700;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 16px;
+  margin-top: 50px;
 }
